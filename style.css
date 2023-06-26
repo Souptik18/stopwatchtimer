@@ -10,6 +10,7 @@ body{
     margin-top: 100px;
     border-color: 1px solid black;
   }
+/* container design just for better design  */
 .container{
     border: 1px solid black;
     width: 400px;
@@ -18,7 +19,8 @@ body{
     border-radius: 100px;
 
 }
-  .stopwatch {
+/* //design of the stopwatch heading */
+  .stopwatch {  
     font-size: 48px;
     margin-bottom: 30px;
   }
